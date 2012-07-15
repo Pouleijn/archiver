@@ -7,7 +7,7 @@ gem 'bundler'
 gem 'rake'
 
 group :development, :test do
-  gem 'minitest'  
+  gem 'minitest' 
 end
   
 group :test do
